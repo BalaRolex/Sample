@@ -9,11 +9,10 @@ public class Check {
         System.out.println("Thoufeeq");
         System.out.println("Development updates");
         System.out.println("Development updates2");
-<<<<<<< HEAD
-=======
         System.out.println("Development updates3");
+        System.out.println("Merging Both");
         
->>>>>>> development
+
         
 
         
