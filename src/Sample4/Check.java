@@ -6,6 +6,8 @@ public class Check {
 		// TODO Auto-generated method stub
         System.out.println("Bala");
         System.out.println("siva");
+        System.out.println("Thoufeeq");
+        
 	}
 
 }
