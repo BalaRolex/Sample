@@ -11,6 +11,10 @@ public class Check {
         System.out.println("Development updates2");
         System.out.println("Development updates3");
         System.out.println("Merging Both");
+        int a=10;
+        int b=10;
+        int c=a+b;
+        System.out.println(c);
         
 
         
